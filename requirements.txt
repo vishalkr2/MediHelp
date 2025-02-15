@@ -1,0 +1,5 @@
+streamlit
+nltk
+deep-translator
+transformers
+sacremoses
